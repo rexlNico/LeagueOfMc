@@ -1,0 +1,8 @@
+main: com.RexlChrislai.Main.Main
+version: 1.0
+name: LeagueOfMc
+author: rexlNico
+
+commands:
+     setminionspawn:
+     lom:
